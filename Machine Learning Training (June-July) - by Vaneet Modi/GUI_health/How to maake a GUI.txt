@@ -1,0 +1,2 @@
+1. Write ''guide'' on command window and press ''enter''
+2. Select ''Blank GUI''.
